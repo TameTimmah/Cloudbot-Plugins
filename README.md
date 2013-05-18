@@ -9,7 +9,7 @@ Simply add the .py files to the bots Plugin folder and restart the bot
 
 <b>Modes</b> - Has various modes added. All have reverse features.
 <p>
-Modes & Usage:
+<i>Modes & Usage:</i>
 </p>
 <ul>
 <li>Owner [user] - Gives User +q</li>
