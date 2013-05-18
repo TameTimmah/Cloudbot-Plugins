@@ -2,7 +2,7 @@
 # Has Modes
 # Owner, SuperOP, OP, HalfOP, Voice, Ban, KBan
 # All with Reverse Added e.g DeOp
-#
+
 from util import hook
 
 @hook.command(adminonly=True)
