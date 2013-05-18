@@ -7,8 +7,7 @@ Simply add the .py files to the bots Plugin folder and restart the bot
 
 <b>GBan</b> - Glines the User (Needs Oper first) <i>Usage:</i> gban [user]
 
-<b>Modes</b> - Has various modes added. All have reverse features.
-</br>
+<b>Modes</b> - Has various modes added. All have reverse features.</br>
 Modes & Usage:
 <ul>
 <li>Owner [user] - Gives User +q</li>
