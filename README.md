@@ -5,6 +5,8 @@ Cloudbot-Plugins
 <h4>Installation</h4>
 Simply add the .py files to the bots Plugin folder and restart the bot
 
+<h4>Plugins</h4>
+
 <b>GBan</b> - Glines the User (Needs Oper first) <i>Usage:</i> gban [user]
 
 <b>Modes</b> - Has various modes added. All have reverse features.
